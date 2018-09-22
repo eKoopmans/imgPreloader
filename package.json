@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/eKoopmans/imgPreloader/issues"
   },
-  "homepage": "https://github.com/eKoopmans/imgPreloader#readme"
+  "homepage": "https://github.com/eKoopmans/imgPreloader#readme",
+  "dependencies": {
+    "jsdom": "^12.0.0"
+  }
 }
