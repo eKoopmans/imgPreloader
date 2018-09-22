@@ -1,0 +1,26 @@
+{
+  "name": "imgpreloader",
+  "version": "0.0.1",
+  "description": "Converts all images on an HTML page to load-on-demand with reduced resolution placeholders.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eKoopmans/imgPreloader.git"
+  },
+  "keywords": [
+    "html",
+    "img",
+    "preload",
+    "on-demand",
+    "data-uri"
+  ],
+  "author": "Erik Koopmans",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eKoopmans/imgPreloader/issues"
+  },
+  "homepage": "https://github.com/eKoopmans/imgPreloader#readme"
+}
